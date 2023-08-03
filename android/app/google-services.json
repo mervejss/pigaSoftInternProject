@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889420963145",
+    "project_id": "narevim-15fc0",
+    "storage_bucket": "narevim-15fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889420963145:android:53f7c402d7c8f92e7b4e98",
+        "android_client_info": {
+          "package_name": "com.example.narevim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889420963145-jrvro17aetplnkqosij5nqja618hcnv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WX3QUQatO8nD1_fZt3KvcTodQUby8X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889420963145-jrvro17aetplnkqosij5nqja618hcnv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
